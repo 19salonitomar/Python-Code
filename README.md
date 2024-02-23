@@ -21,6 +21,7 @@ This repository is created for practicing Python programming. It contains code e
  - While Loop
 - Functions
 - File Handling
+- Object-Oriented Programming(OOP's)
 
 ## Mini Projects
 
