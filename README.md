@@ -15,6 +15,7 @@ This repository is created for practicing Python programming. It contains code e
 
 ## Topics Covered:
 
+- Dictionary
 - Loops
  - For Loop
  - Nested For Loop
